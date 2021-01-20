@@ -3,7 +3,7 @@
     "manifest_version": 2,
     "name": "Pizzazz for Piazza",
     "short_name": "Pizzazz",
-    "version": "0.0",
+    "version": "0.1",
     "description": "Pizzazz is a web extension that enhances the Piazza interface",
     "icons": {
         "16": "/imgs/logo@16.png",
