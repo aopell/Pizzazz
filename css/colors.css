@@ -1,0 +1,191 @@
+:root {
+    --color-teal: #155207;
+    --color-purple: #3d0079;
+    --color-grey: #4d4d4d;
+    --color-orange: #c59201;
+    --color-green: #45b420;
+    --color-aqua: #54bce8;
+    --color-pink: #dda1bd;
+    --test: 100
+}
+
+/* green */
+[pizzazz] .top_bar.custom_topbar_color.green {
+    background-color: var(--color-green) !important;
+}
+
+[pizzazz] .top_bar.custom_topbar_color.green .navbar-inner {
+    background-color: var(--color-green) !important;
+}
+
+[pizzazz] .account_name_container .color-picker .color-block.green {
+    background-color: var(--color-green) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.green:hover {
+    background-color: var(--color-green) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.green .color_box {
+    background-color: var(--color-green) !important;
+}
+
+[pizzazz] li[onclick*=green] .color-block {
+    background-color: var(--color-green) !important;
+}
+
+
+/* teal */
+[pizzazz] .top_bar.custom_topbar_color.teal {
+    background-color: var(--color-teal) !important;
+}
+
+[pizzazz] .top_bar.custom_topbar_color.teal .navbar-inner {
+    background-color: var(--color-teal) !important;
+}
+
+[pizzazz] .account_name_container .color-picker .color-block.teal {
+    background-color: var(--color-teal) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.teal:hover {
+    background-color: var(--color-teal) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.teal .color_box {
+    background-color: var(--color-teal) !important;
+}
+
+[pizzazz] li[onclick*=teal] .color-block {
+    background-color: var(--color-teal) !important;
+}
+
+
+/* purple */
+[pizzazz] .top_bar.custom_topbar_color.purple {
+    background-color: var(--color-purple) !important;
+}
+
+[pizzazz] .top_bar.custom_topbar_color.purple .navbar-inner {
+    background-color: var(--color-purple) !important;
+}
+
+[pizzazz] .account_name_container .color-picker .color-block.purple {
+    background-color: var(--color-purple) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.purple:hover {
+    background-color: var(--color-purple) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.purple .color_box {
+    background-color: var(--color-purple) !important;
+}
+
+[pizzazz] li[onclick*=purple] .color-block {
+    background-color: var(--color-purple) !important;
+}
+
+
+/* grey */
+[pizzazz] .top_bar.custom_topbar_color.grey {
+    background-color: var(--color-grey) !important;
+}
+
+[pizzazz] .top_bar.custom_topbar_color.grey .navbar-inner {
+    background-color: var(--color-grey) !important;
+}
+
+[pizzazz] .account_name_container .color-picker .color-block.grey {
+    background-color: var(--color-grey) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.grey:hover {
+    background-color: var(--color-grey) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.grey .color_box {
+    background-color: var(--color-grey) !important;
+}
+
+[pizzazz] li[onclick*=grey] .color-block {
+    background-color: var(--color-grey) !important;
+}
+
+
+/* orange */
+[pizzazz] .top_bar.custom_topbar_color.orange {
+    background-color: var(--color-orange) !important;
+}
+
+[pizzazz] .top_bar.custom_topbar_color.orange .navbar-inner {
+    background-color: var(--color-orange) !important;
+}
+
+[pizzazz] .account_name_container .color-picker .color-block.orange {
+    background-color: var(--color-orange) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.orange:hover {
+    background-color: var(--color-orange) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.orange .color_box {
+    background-color: var(--color-orange) !important;
+}
+
+[pizzazz] li[onclick*=orange] .color-block {
+    background-color: var(--color-orange) !important;
+}
+
+
+/* aqua */
+[pizzazz] .top_bar.custom_topbar_color.aqua {
+    background-color: var(--color-aqua) !important;
+}
+
+[pizzazz] .top_bar.custom_topbar_color.aqua .navbar-inner {
+    background-color: var(--color-aqua) !important;
+}
+
+[pizzazz] .account_name_container .color-picker .color-block.aqua {
+    background-color: var(--color-aqua) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.aqua:hover {
+    background-color: var(--color-aqua) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.aqua .color_box {
+    background-color: var(--color-aqua) !important;
+}
+
+[pizzazz] li[onclick*=aqua] .color-block {
+    background-color: var(--color-aqua) !important;
+}
+
+
+/* pink */
+[pizzazz] .top_bar.custom_topbar_color.pink {
+    background-color: var(--color-pink) !important;
+}
+
+[pizzazz] .top_bar.custom_topbar_color.pink .navbar-inner {
+    background-color: var(--color-pink) !important;
+}
+
+[pizzazz] .account_name_container .color-picker .color-block.pink {
+    background-color: var(--color-pink) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.pink:hover {
+    background-color: var(--color-pink) !important;
+}
+
+[pizzazz] #top_bar .top_bar_dropdown_wrapper .top_bar_dropdown_menu#my_class_menu li.pink .color_box {
+    background-color: var(--color-pink) !important;
+}
+
+[pizzazz] li[onclick*=pink] .color-block {
+    background-color: var(--color-pink) !important;
+}

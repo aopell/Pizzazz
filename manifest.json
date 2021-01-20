@@ -1,0 +1,33 @@
+{
+    "$schema": "http://json.schemastore.org/chrome-manifest",
+    "manifest_version": 2,
+    "name": "Pizzazz for Piazza",
+    "short_name": "Pizzazz",
+    "version": "0.0",
+    "description": "Pizzazz is a web extension that enhances the Piazza interface",
+    "icons": {
+        "16": "/imgs/logo@16.png",
+        "48": "/imgs/logo@48.png",
+        "128": "/imgs/logo@128.png",
+        "256": "/imgs/logo@256.png"
+    },
+    "options_page": "/pages/options.html",
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://piazza.com/class/*"
+            ],
+            "js": [
+                "/js/all.js"
+            ],
+            "css": [
+                "/css/all.css",
+                "/css/colors.css"
+            ],
+            "run_at": "document_start"
+        }
+    ]
+}
